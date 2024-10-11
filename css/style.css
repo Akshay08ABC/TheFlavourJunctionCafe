@@ -490,6 +490,11 @@ section {
     color: #635985;
 }
 
+.brand-name {
+    color: #b2601c !important;
+    font-weight: 700 !important;
+}
+
 .home .content h3 {
     font-size: 4rem;
     color: #130f40;
